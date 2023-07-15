@@ -3,3 +3,8 @@
 <h2>Yapılması Gerekenler</h2>
 <li>Programı kullanabilmeniz için <b>Python</b> bilgisayarınızda yüklü olması gerek </li>
 <li>Programı kullanabilmeniz için android telefonunuzda geliştirici modunu açmanız gerekmektedir.</li>
+
+<hr>
+www.ebubekirbastama.com <br>
+www.ebubekirbastama.com.tr <br>
+www.csharpegitimi.com.tr <br>
